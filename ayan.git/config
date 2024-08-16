@@ -6,5 +6,3 @@
 	ignorecase = true
 [remote "origin"]
 	url = https://github.com/AyanAhmed30/ayan.git
-	fetch = +refs/*:refs/*
-	mirror = true
